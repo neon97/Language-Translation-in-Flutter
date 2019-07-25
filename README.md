@@ -11,7 +11,7 @@ Add the package like this....
 
 
   <h3>Adding Package</h3> 
-<img src="https://github.com/neon97/Language-Translation-in-Flutter/blob/master/screenshots/pubspec.jpg?raw=true"  width="100" >
+<img src="https://github.com/neon97/Language-Translation-in-Flutter/blob/master/screenshots/pubspec.jpg?raw=true"  width="500" >
 </img>
 
 Well after Coding from Main.Dart your build will look like this !!
