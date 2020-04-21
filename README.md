@@ -1,6 +1,9 @@
 # Language-Translation-in-Flutter
 Wohho !! After searching got a package that can help to translate the languages to other languages in yopur flutter App without calling any Google API's......
 
+<a class="github-button" href="https://youtu.be/mWZEfPA7mx8" data-size="large" aria-label="Follow @ntkme on GitHub">Checkout the Video for better understanding</a>
+
+
 But before Starting we need to get the Translator Package.....
 
 <a class="github-button" href="https://pub.dev/packages/translator#-installing-tab-" data-size="large" aria-label="Follow @ntkme on GitHub">Get the Package from here !!!</a>
